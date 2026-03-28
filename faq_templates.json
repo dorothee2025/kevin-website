@@ -1,0 +1,158 @@
+[
+  {
+    "title": {
+      "en": "logout",
+      "rw": "gusohoka",
+      "fr": "déconnexion",
+      "lg": "okufufuluma"
+    },
+    "keywords": {
+      "en": ["logout", "log out", "sign out"],
+      "rw": ["sohoka", "fungura", "gusohoka"],
+      "fr": ["déconnexion", "se déconnecter", "logout"],
+      "lg": ["fufuluma", "fuluma", "logout"]
+    },
+    "answer": {
+      "en": "To logout: click the profile avatar in the top-right, open the menu and choose 'Logout'.",
+      "rw": "Kugira usoze: kanda avatar ya profayili hejuru iburyo, fungura menu uhitemo 'Logout'.",
+      "fr": "Pour vous déconnecter: cliquez sur l'avatar de profil en haut à droite, ouvrez le menu et choisissez 'Logout'.",
+      "lg": "Okusobola okufuluma: nyiga avatar eya profile waggulu w'eddali, ggula menu olonde 'Logout'."
+    },
+    "next_options": {
+      "en": ["How to change password?", "How to login?"],
+      "rw": ["Uhindura ijambo ry'ibanga gute?", "Kwinjira gute?"],
+      "fr": ["Comment changer le mot de passe?", "Comment se connecter?"],
+      "lg": ["Okukyusa password otya?", "Okuyingira otya?"]
+    }
+  },
+  {
+    "title": {
+      "en": "change password",
+      "rw": "hindura ijambo ry'ibanga",
+      "fr": "changer mot de passe",
+      "lg": "kyusa password"
+    },
+    "keywords": {
+      "en": ["change password", "reset password", "password"],
+      "rw": ["hindura ijambo", "ijambo ry'ibanga", "password"],
+      "fr": ["changer mot de passe", "réinitialiser", "password"],
+      "lg": ["kyusa password", "password", "reset"]
+    },
+    "answer": {
+      "en": "To change your password: go to Settings → Security → Change Password. Enter your current password, then the new password and confirm it.",
+      "rw": "Kugira uhindure ijambo ry'ibanga: jya muri Settings → Security → Change Password. Injiza ijambo ry'ibanga ryawe rigezweho, hanyuma ijambo ry'ibanga rishya urishyigikire.",
+      "fr": "Pour changer votre mot de passe: allez dans Settings → Security → Change Password. Entrez votre mot de passe actuel, puis le nouveau mot de passe et confirmez-le.",
+      "lg": "Okukyusa password yo: genda mu Settings → Security → Change Password. Yingiza password yo eyaliwo, oluvannyuma password empya ogikakase."
+    },
+    "next_options": {
+      "en": ["How to logout?", "How to reset password?"],
+      "rw": ["Gusohoka gute?", "Kongera gutangiza ijambo ry'ibanga gute?"],
+      "fr": ["Comment se déconnecter?", "Comment réinitialiser le mot de passe?"],
+      "lg": ["Okufufuluma otya?", "Okuddamu okuteeka password otya?"]
+    }
+  },
+  {
+    "title": {
+      "en": "signup",
+      "rw": "kwiyandikisha",
+      "fr": "inscription",
+      "lg": "okuyeereza"
+    },
+    "keywords": {
+      "en": ["signup", "sign up", "register"],
+      "rw": ["iyandikishe", "kwiyandikisha", "register"],
+      "fr": ["inscription", "s'inscrire", "register"],
+      "lg": ["yeereza", "signup", "register"]
+    },
+    "answer": {
+      "en": "To sign up: click 'Sign Up' in the header, fill out the form and submit. Passwords must be at least 8 characters.",
+      "rw": "Kugira wandikishe: kanda 'Sign Up' mu mutwe, uzuze form ubyohereze. Amagambo y'ibanga agomba kuba byibura inyuguti 8.",
+      "fr": "Pour vous inscrire: cliquez sur 'Sign Up' dans l'en-tête, remplissez le formulaire et soumettez-le. Les mots de passe doivent contenir au moins 8 caractères.",
+      "lg": "Okusobola okuweereza: nyiga 'Sign Up' mu header, jjuza form osobole. Password zina okuba na ennukuta 8 obutakka."
+    },
+    "next_options": {
+      "en": ["How to login?", "How to change password?"],
+      "rw": ["Kwinjira gute?", "Uhindura ijambo ry'ibanga gute?"],
+      "fr": ["Comment se connecter?", "Comment changer le mot de passe?"],
+      "lg": ["Okuyingira otya?", "Okukyusa password otya?"]
+    }
+  },
+  {
+    "title": {
+      "en": "navigation",
+      "rw": "kuyobora",
+      "fr": "navigation",
+      "lg": "navigation"
+    },
+    "keywords": {
+      "en": ["navigation", "menu", "how to navigate", "find content"],
+      "rw": ["kuyobora", "menu", "kugenda", "gushaka ibikubiye"],
+      "fr": ["navigation", "menu", "naviguer", "trouver contenu"],
+      "lg": ["navigation", "menu", "okutambula", "okusanga content"]
+    },
+    "answer": {
+      "en": "Use the navigation menu at the top: Home, About, Services, Contact. Use the search bar to find specific content. Check the sidebar for trending videos and quick links.",
+      "rw": "Koresha menu yo kuyobora hejuru: Home, About, Services, Contact. Koresha agakoresho k'ishakisha kugira ushake ibikubiye byihariye. Reba sidebar kugira ubone videwo zikunzwe n'amakuru yihuse.",
+      "fr": "Utilisez le menu de navigation en haut: Home, About, Services, Contact. Utilisez la barre de recherche pour trouver du contenu spécifique. Vérifiez la barre latérale pour les vidéos tendance et les liens rapides.",
+      "lg": "Kozesa menu eya navigation waggulu: Home, About, Services, Contact. Kozesa search bar okusanga content egy'enjawulo. Kebera sidebar ku videos ezikula n'enkola ez'amangu."
+    },
+    "next_options": {
+      "en": ["How to search?", "What content is available?"],
+      "rw": ["Gushaka gute?", "Ibikubiye biri gute?"],
+      "fr": ["Comment rechercher?", "Quel contenu est disponible?"],
+      "lg": ["Okunoonya otya?", "Content eri ki?"]
+    }
+  },
+  {
+    "title": {
+      "en": "content",
+      "rw": "ibikubiye",
+      "fr": "contenu",
+      "lg": "content"
+    },
+    "keywords": {
+      "en": ["content", "videos", "what's available", "categories"],
+      "rw": ["ibikubiye", "videwo", "ibiri", "amatsinda"],
+      "fr": ["contenu", "vidéos", "disponible", "catégories"],
+      "lg": ["content", "videos", "ekiri", "categories"]
+    },
+    "answer": {
+      "en": "CS DREAM offers: Sport videos, Hack tricks tutorials, Coding lessons, School news, and Entertainment. Browse by category or use search to find what you need.",
+      "rw": "CS DREAM itanga: Videwo za Sport, Amasomo ya Hack tricks, Amasomo yo gukora kode, Amakuru y'amashuri, n'Ibiterane. Rondera ukurikije itsinda cyangwa ukoreshe ishakisha kugira ubone ukeneye.",
+      "fr": "CS DREAM offre: vidéos sportives, tutoriels de piratage, leçons de codage, actualités scolaires et divertissement. Parcourez par catégorie ou utilisez la recherche pour trouver ce dont vous avez besoin.",
+      "lg": "CS DREAM etuwa: videos za sport, tutorials za hack tricks, lessons za coding, news za school, n'entertainment. Noonya ku category oba kozesa search okusanga ky'olina."
+    },
+    "next_options": {
+      "en": ["How to download videos?", "How to watch videos?"],
+      "rw": ["Videwo zikururwa gute?", "Videwo zirebwa gute?"],
+      "fr": ["Comment télécharger des vidéos?", "Comment regarder des vidéos?"],
+      "lg": ["Okussaawo videos otya?", "Okulaba videos otya?"]
+    }
+  },
+  {
+    "title": {
+      "en": "about cs dream",
+      "rw": "ibya cs dream",
+      "fr": "à propos de cs dream",
+      "lg": "ebifa ku cs dream"
+    },
+    "keywords": {
+      "en": ["about", "cs dream", "what is", "company"],
+      "rw": ["ibya", "cs dream", "ni iki", "isosiyete"],
+      "fr": ["à propos", "cs dream", "qu'est-ce que", "entreprise"],
+      "lg": ["ebifa", "cs dream", "ki ki", "company"]
+    },
+    "answer": {
+      "en": "CS DREAM is a technology education platform offering coding tutorials, hack tricks, sport content, and entertainment. Founded by passionate developers committed to advancing digital literacy.",
+      "rw": "CS DREAM ni urubuga rw'imyigishirize y'ikoranabuhanga rutanga amasomo yo gukora kode, ubuhanga bwa mudasobwa, ibikubiye mu mikino, n'ibiterane. Rwashinzwe n'abakora kode bashyashya bashyiriyeho imbaraga mu iterambere ry'ubumenyi mu by'ikoranabuhanga.",
+      "fr": "CS DREAM est une plateforme d'éducation technologique offrant des tutoriels de codage, des astuces de piratage, du contenu sportif et du divertissement. Fondée par des développeurs passionnés engagés dans l'avancement de la littératie numérique.",
+      "lg": "CS DREAM ye platform eya technology education etuwa tutorials za coding, hack tricks, content ya sport, n'entertainment. Yassibwa abakula ba coding abalina okwagala okukuza okumanya digital."
+    },
+    "next_options": {
+      "en": ["Who are the team members?", "How to contact?"],
+      "rw": ["Ni nde abagize itsinda?", "Uhamagara gute?"],
+      "fr": ["Qui sont les membres de l'équipe?", "Comment contacter?"],
+      "lg": ["Ani ab'omu team?", "Okulangako otya?"]
+    }
+  }
+]

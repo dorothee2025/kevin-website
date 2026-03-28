@@ -1,0 +1,12 @@
+Patch preview: replace existing .map-wrapper rules with larger, polished styles and update the 'Our Location' h2 font-size.
+
+CSS changes:
+- .map-wrapper: max-width 1100px, padding-bottom 56.25%, min-height 480px on large screens, stronger shadow, larger border-radius
+- iframe: inset:0; border-radius inherit
+- media query for >=992px to reduce padding-bottom and set min-height
+
+HTML changes:
+- Change h2 inline font-size to 36px
+- Slightly increased description font-size
+
+No geolocation API used; map uses embed search URL.

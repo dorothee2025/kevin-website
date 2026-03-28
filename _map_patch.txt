@@ -1,0 +1,1 @@
+This file documents the intended change: replace the small .map-wrapper CSS block with a larger, polished variant. Use apply_patch to update about.html.
